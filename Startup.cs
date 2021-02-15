@@ -41,7 +41,6 @@ namespace ReferenceOfPerson
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
-                var f = 0;
             });
 
 
